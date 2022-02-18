@@ -1,0 +1,6 @@
+node_modules
+
+/.mf
+/.cache
+/functions
+/public/build
